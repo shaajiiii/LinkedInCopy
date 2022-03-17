@@ -1,0 +1,346 @@
+/* attributes */
+body{
+    background-color: #f3f2ef;
+    margin: 0px;
+    font-family: sans-serif;
+
+}
+/* header part*/
+.header{
+    height: 50px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+
+
+}
+.In-icon{
+    width: 46px;
+    height: 46px;
+    margin-left: 199px;
+    float: left;
+    margin-top: 1px;
+}
+.searchBar{
+    float: left;
+    margin-top: 7px;
+    background-color: #eef3f8;
+    height: 33px;
+    width: 277px;
+    border: none;
+    border-radius: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.search-icon{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 14px;
+}
+.header-icons{
+   color:  rgb(90, 90, 90);
+    height: 45px;
+    width: 80px;
+    float: left;
+    padding-top: 5px;
+    
+    font-size: 12px;
+    
+}
+.Head-icon{
+    font-size: 20px;
+    margin-left: 24px;
+}
+.Head-hr{
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    margin: 0px;
+    margin-top: 3px;
+}
+/*left section */
+.left-section{
+    height: 339px;
+    margin-left: 194px;
+    width: 226px;
+    border-radius: 13px;
+    background-color: #ffffff;
+}
+.Left-top{
+    width: 100%;
+    height: 60px;
+   
+    background-image: linear-gradient(to right,#a0b4b7 ,#bfd3d6);
+
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+.profile-pic{
+    position: absolute;
+    height: 69px;
+    width: 73px;
+    margin-left: 75px;
+    border: solid;
+    border-color: white;
+    margin-top: 24px;
+    border-radius: 41px;
+}
+.name-container{
+    padding: 10px;
+    padding-left: 25px;
+    height: 93px;
+    border: solid;
+    border-width: 1px;
+    border-color:#e3e2df;
+    align-items: center;
+    padding-bottom: 13px;
+}
+.Add-friend{
+    border: solid;
+    padding-left: 10px;
+   
+    border-width: 1px;
+    border-top-width: 0px;
+    border-color:#e3e2df;
+    height: 62px;
+
+}
+.my-items{
+    border: solid;
+   
+    border-width: 1px;
+    border-top-width: 0px;
+    border-color:#e3e2df;
+    height: 34px;
+    
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+    
+
+
+}
+.Add-friend-icon{
+    float: right;
+    margin-top: -15px;
+    margin-right: 10px;
+}
+.Yellow-mark{
+    color: rgb(226, 211, 0);
+    font-size: 10px;
+}
+.left-bottom-section{
+    height: 165px;
+    margin-left: 194px;
+    width: 226px;
+    border-radius: 13px;
+    background-color: #ffffff;
+}
+.left-links{
+    text-decoration: none;
+    color: #2d7ccb;
+    font-size: 12px;
+    
+    margin-left: 10px;
+}
+.Left-dwon-hr{
+    height: 1px;
+    background-color: #f7f6f4;
+    border: none;
+    margin: 0px;
+    margin-top: 10px;
+    
+
+}
+
+/*mid section*/
+.mid-section{
+    height: 117px;
+    margin-top: -32em;
+    width: 545px;
+    border-radius: 13px;
+    background-color: #ffffff;
+   
+    margin-right: 33em;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(223, 223, 223);
+
+}
+.post-dp{
+    position: absolute;
+    height: 48px;
+    width: 50px;
+    margin-left: 13px;
+    border: solid;
+    border-color: white;
+    margin-top: 11px;
+    border-radius: 41px;
+    float: left;
+}
+.post-box{
+    border: solid;
+    border-radius: 1px;
+    border-color: #e0e0e0;
+    height: 39px;
+    margin-left: 78px;
+    margin-top: 16px;
+    width: 443px;
+    border-radius: 36px;
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    
+}
+.photo-icon{
+    height: 46px;
+  
+    width: 25%;
+    float: left;
+    font-size:23px ;
+    
+    padding-top: 10px;
+}
+.cam{
+    color: #70b5f9;
+    font-size: 23px;
+    margin-left: 19px;
+    float: left;
+}
+.vid{
+    color: #7fc15e;
+    font-size: 23px;
+    float: left;
+
+}
+.calender{
+    color:#e8a748;
+    font-size: 23px;
+    float: left;
+
+}
+.file{
+    color:#fc9295;
+    font-size: 23px;
+    float: left;
+
+}
+.words{
+    color: grey;
+    float: left;
+    margin-top: 3px;
+    font-size: 20px;
+}
+.mid-down{
+    height: 583px;
+    width: 525px;
+    border-radius: 13px;
+    background-color: #ffffff;
+    margin-right: 33em;
+    margin-top: -23em;
+    float: right;
+    border: solid;
+    margin-bottom: 100px;
+    border-width: 1px;
+    border-color: rgb(223, 223, 223);
+    padding: 10px;
+}
+/*inside post section*/
+.post-icon{
+    height: 46px;
+}
+.post-writings{
+    margin: 0px;
+    margin-bottom: 5px;
+    color: rgb(90, 90, 90);
+    
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.post-img{
+    width: 545px;
+    margin-top: 20px;
+    margin-left: -10px;
+    position: absolute;
+}
+.line-in-post{
+    
+    background-color: #e6e5e3;
+    border: none;height: 1px;
+    
+    
+}
+/* icons bolow post */
+.like{
+    
+    color: grey;
+    font-size: 23px;
+    margin-left: 19px;
+    float: left;
+
+}
+.comment{
+    color: grey;
+    font-size: 23px;
+    float: left;
+
+
+}
+.share{
+    color: grey;
+    font-size: 23px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+.send{
+    color: grey;
+    font-size: 23px;
+    float: left;
+    
+}
+
+
+/*right section */
+.right-section{
+    height: 274px;
+    width: 286px;
+    border-radius: 13px;
+    background-color: #ffffff;
+    margin-right: -55em;
+    margin-top: -32em;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(223, 223, 223);
+    padding: 15px;
+}
+.right-down{
+    height: 237px;
+    width: 300px;
+    border-radius: 13px;
+    background-color: #ffffff;
+    margin-right: -55em;
+    margin-top: -12em;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(223, 223, 223);
+    padding-left: 15px;
+}
+
+.footer{
+    height: 237px;
+    width: 251px;
+    border-radius: 13px;
+    
+    margin-right: 12em;
+    margin-top: -18em;
+    float: right;
+    border-width: 1px;
+    border-color: rgb(223, 223, 223);
+    padding-left: 66px;
+    padding-top: 25px;
+}
+
